@@ -1,0 +1,14 @@
+io/egen/api/constants/URI.class
+io/egen/api/service/impl/WeatherServiceImpl.class
+io/egen/api/JPAConfig.class
+io/egen/api/entity/Wind.class
+io/egen/api/exception/NotFoundException.class
+io/egen/api/repository/WeatherRepository.class
+io/egen/api/entity/Weather.class
+io/egen/api/exception/BadRequestException.class
+io/egen/api/repository/impl/WeatherRepositoryImpl.class
+io/egen/api/ServletInitializer.class
+io/egen/api/service/WeatherService.class
+io/egen/api/WebConfig.class
+io/egen/api/controller/WeatherController.class
+io/egen/api/SwaggerConfig.class
